@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/repo-portfolio/static/css/main.f855e6bc.css",
-    "main.js": "/repo-portfolio/static/js/main.414e290b.js",
+    "main.js": "/repo-portfolio/static/js/main.2b6ddcfd.js",
     "static/js/453.acca0757.chunk.js": "/repo-portfolio/static/js/453.acca0757.chunk.js",
     "static/media/1740631897053.jpg": "/repo-portfolio/static/media/1740631897053.3993ea1ea76197c505e5.jpg",
     "static/media/react.png": "/repo-portfolio/static/media/react.809fed23bcdd686de66e.png",
@@ -11,11 +11,11 @@
     "static/media/css-3.png": "/repo-portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
     "index.html": "/repo-portfolio/index.html",
     "main.f855e6bc.css.map": "/repo-portfolio/static/css/main.f855e6bc.css.map",
-    "main.414e290b.js.map": "/repo-portfolio/static/js/main.414e290b.js.map",
+    "main.2b6ddcfd.js.map": "/repo-portfolio/static/js/main.2b6ddcfd.js.map",
     "453.acca0757.chunk.js.map": "/repo-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.414e290b.js"
+    "static/js/main.2b6ddcfd.js"
   ]
 }
